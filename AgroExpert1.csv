@@ -1,0 +1,1079 @@
+1,Pune/Rainy/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+2,Pune/Rainy/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+3,Pune/Rainy/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+4,Pune/Rainy/Bagayat or irrigated land/Sunny/10-20,SugerCane
+5,Pune/Rainy/Bagayat or irrigated land/Sunny/20-30,SugerCane
+6,Pune/Rainy/Bagayat or irrigated land/Sunny/30-40,SugerCane
+7,Pune/Rainy/Bagayat or irrigated land/Overcast/10-20,SugerCane
+8,Pune/Rainy/Bagayat or irrigated land/Overcast/20-30,SugerCane
+9,Pune/Rainy/Bagayat or irrigated land/Overcast/30-40,SugerCane
+10,Pune/Rainy/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+11,Pune/Rainy/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+12,Pune/Rainy/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+13,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+14,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+15,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+16,Pune/Rainy/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+17,Pune/Rainy/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+18,Pune/Rainy/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+19,Pune/Rainy/Warkas land/Overcast/10-20,SugerCane
+20,Pune/Rainy/Warkas land/Overcast/20-30,SugerCane
+21,Pune/Rainy/Warkas land/Overcast/30-40,SugerCane
+22,Pune/Rainy/Warkas land/Cloudy/10-20,SugerCane
+23,Pune/Rainy/Warkas land/Cloudy/20-30,SugerCane
+24,Pune/Rainy/Warkas land/Cloudy/30-40,SugerCane
+25,Pune/Rainy/Warkas land/Sunny/10-20,SugerCane
+26,Pune/Rainy/Warkas land/Sunny/20-30,SugerCane
+27,Pune/Rainy/Warkas land/Sunny/30-40,SugerCane
+28,Pune/Rainy/Rice land/Overcast/10-20,Rice
+29,Pune/Rainy/Rice land/Overcast/20-30,Rice
+30,Pune/Rainy/Rice land/Overcast/30-40,Rice
+31,Pune/Rainy/Rice land/Cloudy/10-20,Rice
+32,Pune/Rainy/Rice land/Cloudy/20-30,Rice
+33,Pune/Rainy/Rice land/Cloudy/30-40,Rice
+34,Pune/Rainy/Rice land/Sunny/10-20,Rice
+35,Pune/Rainy/Rice land/Sunny/20-30,Rice
+36,Pune/Rainy/Rice land/Sunny/30-40,Rice
+37,Pune/Summer/Bagayat or irrigated land/Cloudy/10-20,Pulse
+38,Pune/Summer/Bagayat or irrigated land/Cloudy/20-30,Pulse
+39,Pune/Summer/Bagayat or irrigated land/Cloudy/30-40,Pulse
+40,Pune/Summer/Bagayat or irrigated land/Sunny/10-20,Pulse
+41,Pune/Summer/Bagayat or irrigated land/Sunny/20-30,Pulse
+42,Pune/Summer/Bagayat or irrigated land/Sunny/30-40,Pulse
+43,Pune/Summer/Bagayat or irrigated land/Overcast/10-20,Pulse
+44,Pune/Summer/Bagayat or irrigated land/Overcast/20-30,Pulse
+45,Pune/Summer/Bagayat or irrigated land/Overcast/30-40,Pulse
+46,Pune/Summer/Jirayat land (Dry crop)/Overcast/10-20,Pulse
+47,Pune/Summer/Jirayat land (Dry crop)/Overcast/20-30,Pulse
+48,Pune/Summer/Jirayat land (Dry crop)/Overcast/30-40,Pulse
+49,Pune/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Pulse
+50,Pune/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Pulse
+51,Pune/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Pulse
+52,Pune/Summer/Jirayat land (Dry crop)/Sunny/10-20,Pulse
+53,Pune/Summer/Jirayat land (Dry crop)/Sunny/20-30,Pulse
+54,Pune/Summer/Jirayat land (Dry crop)/Sunny/30-40,Pulse
+55,Pune/Summer/Warkas land/Overcast/10-20,Pulse
+56,Pune/Summer/Warkas land/Overcast/20-30,Pulse
+57,Pune/Summer/Warkas land/Overcast/30-40,Pulse
+58,Pune/Summer/Warkas land/Cloudy/10-20,Pulse
+59,Pune/Summer/Warkas land/Cloudy/20-30,Pulse
+60,Pune/Summer/Warkas land/Cloudy/30-40,Pulse
+61,Pune/Summer/Warkas land/Sunny/10-20,Pulse
+62,Pune/Summer/Warkas land/Sunny/20-30,Pulse
+63,Pune/Summer/Warkas land/Sunny/30-40,Pulse
+64,Pune/Summer/Rice land/Overcast/10-20,Pulse
+65,Pune/Summer/Rice land/Overcast/20-30,Pulse
+66,Pune/Summer/Rice land/Overcast/30-40,Pulse
+67,Pune/Summer/Rice land/Cloudy/10-20,Pulse
+68,Pune/Summer/Rice land/Cloudy/20-30,Pulse
+69,Pune/Summer/Rice land/Cloudy/30-40,Pulse
+70,Pune/Summer/Rice land/Sunny/10-20,Pulse
+71,Pune/Summer/Rice land/Sunny/20-30,Pulse
+72,Pune/Summer/Rice land/Sunny/30-40,Pulse
+73,Pune/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+74,Pune/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+75,Pune/Winter/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+76,Pune/Winter/Bagayat or irrigated land/Sunny/10-20,SugerCane
+77,Pune/Winter/Bagayat or irrigated land/Sunny/20-30,SugerCane
+78,Pune/Winter/Bagayat or irrigated land/Sunny/30-40,SugerCane
+79,Pune/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+80,Pune/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+81,Pune/Winter/Bagayat or irrigated land/Cloudy/30-40,Wheat
+82,Pune/Winter/Jirayat land (Dry crop)/Sunny/10-20,Wheat
+83,Pune/Winter/Jirayat land (Dry crop)/Sunny/20-30,Wheat
+84,Pune/Winter/Jirayat land (Dry crop)/Sunny/30-40,Wheat
+85,Pune/Winter/Jirayat land (Dry crop)/Overcast/10-20,Wheat
+86,Pune/Winter/Jirayat land (Dry crop)/Overcast/20-30,Wheat
+87,Pune/Winter/Jirayat land (Dry crop)/Overcast/30-40,Wheat
+88,Pune/Winter/Jirayat land (Dry crop)/Overcast/10-20,Wheat
+89,Pune/Winter/Jirayat land (Dry crop)/Overcast/20-30,Wheat
+90,Pune/Winter/Jirayat land (Dry crop)/Overcast/30-40,Wheat
+91,Pune/Winter/Warkas land/Overcast/10-20,Wheat
+92,Pune/Winter/Warkas land/Overcast/20-30,Wheat
+93,Pune/Winter/Warkas land/Overcast/30-40,Wheat
+94,Pune/Winter/Warkas land/Cloudy/10-20,Wheat
+95,Pune/Winter/Warkas land/Cloudy/20-30,Wheat
+96,Pune/Winter/Warkas land/Cloudy/30-40,Wheat
+97,Pune/Winter/Warkas land/Sunny/10-20,Wheat
+98,Pune/Winter/Warkas land/Sunny/20-30,Wheat
+99,Pune/Winter/Warkas land/Sunny/30-40,Wheat
+100,Pune/Winter/Rice land/Overcast/10-20,Wheat
+101,Pune/Winter/Rice land/Overcast/20-30,Wheat
+102,Pune/Winter/Rice land/Overcast/30-40,Wheat
+103,Pune/Winter/Rice land/Cloudy/10-20,Wheat
+104,Pune/Winter/Rice land/Cloudy/20-30,Wheat
+105,Pune/Winter/Rice land/Cloudy/30-40,Wheat
+106,Pune/Winter/Rice land/Sunny/10-20,Wheat
+107,Pune/Winter/Rice land/Sunny/20-30,Wheat
+108,Pune/Winter/Rice land/Sunny/30-40,Wheat
+109,Nashik/Rainy/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+110,Nashik/Rainy/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+111,Nashik/Rainy/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+112,Nashik/Rainy/Bagayat or irrigated land/Sunny/10-20,SugerCane
+113,Nashik/Rainy/Bagayat or irrigated land/Sunny/20-30,SugerCane
+114,Nashik/Rainy/Bagayat or irrigated land/Sunny/30-40,SugerCane
+115,Nashik/Rainy/Bagayat or irrigated land/Overcast/10-20,SugerCane
+116,Nashik/Rainy/Bagayat or irrigated land/Overcast/20-30,SugerCane
+117,Nashik/Rainy/Bagayat or irrigated land/Overcast/30-40,SugerCane
+118,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+119,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+120,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+121,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+122,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+123,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+124,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+125,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+126,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+127,Nashik/Rainy/Warkas land/Overcast/10-20,SugerCane
+128,Nashik/Rainy/Warkas land/Overcast/20-30,SugerCane
+129,Nashik/Rainy/Warkas land/Overcast/30-40,SugerCane
+130,Nashik/Rainy/Warkas land/Cloudy/10-20,SugerCane
+131,Nashik/Rainy/Warkas land/Cloudy/20-30,SugerCane
+132,Nashik/Rainy/Warkas land/Cloudy/30-40,SugerCane
+133,Nashik/Rainy/Warkas land/Sunny/10-20,SugerCane
+134,Nashik/Rainy/Warkas land/Sunny/20-30,SugerCane
+135,Nashik/Rainy/Warkas land/Sunny/30-40,SugerCane
+136,Nashik/Rainy/Rice land/Overcast/10-20,Rice
+137,Nashik/Rainy/Rice land/Overcast/20-30,Rice
+138,Nashik/Rainy/Rice land/Overcast/30-40,Rice
+139,Nashik/Rainy/Rice land/Cloudy/10-20,Rice
+140,Nashik/Rainy/Rice land/Cloudy/20-30,Rice
+141,Nashik/Rainy/Rice land/Cloudy/30-40,Rice
+142,Nashik/Rainy/Rice land/Sunny/10-20,Rice
+143,Nashik/Rainy/Rice land/Sunny/20-30,Rice
+144,Nashik/Rainy/Rice land/Sunny/30-40,Rice
+145,Nashik/Summer/Bagayat or irrigated land/Cloudy/10-20,Oil Beans
+146,Nashik/Summer/Bagayat or irrigated land/Cloudy/20-30,Oil Beans
+147,Nashik/Summer/Bagayat or irrigated land/Cloudy/30-40,Oil Beans
+148,Nashik/Summer/Bagayat or irrigated land/Sunny/10-20,Oil Beans
+149,Nashik/Summer/Bagayat or irrigated land/Sunny/20-30,Oil Beans
+150,Nashik/Summer/Bagayat or irrigated land/Sunny/30-40,Oil Beans
+151,Nashik/Summer/Bagayat or irrigated land/Overcast/10-20,Oil Beans
+152,Nashik/Summer/Bagayat or irrigated land/Overcast/20-30,Oil Beans
+153,Nashik/Summer/Bagayat or irrigated land/Overcast/30-40,Oil Beans
+154,Nashik/Summer/Jirayat land (Dry crop)/Overcast/10-20,Oil Beans
+155,Nashik/Summer/Jirayat land (Dry crop)/Overcast/20-30,Oil Beans
+156,Nashik/Summer/Jirayat land (Dry crop)/Overcast/30-40,Oil Beans
+157,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Oil Beans
+158,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Oil Beans
+159,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Oil Beans
+160,Nashik/Summer/Jirayat land (Dry crop)/Sunny/10-20,Oil Beans
+161,Nashik/Summer/Jirayat land (Dry crop)/Sunny/20-30,Oil Beans
+162,Nashik/Summer/Jirayat land (Dry crop)/Sunny/30-40,Oil Beans
+163,Nashik/Summer/Warkas land/Overcast/10-20,Oil Beans
+164,Nashik/Summer/Warkas land/Overcast/20-30,Oil Beans
+165,Nashik/Summer/Warkas land/Overcast/30-40,Oil Beans
+166,Nashik/Summer/Warkas land/Cloudy/10-20,Oil Beans
+167,Nashik/Summer/Warkas land/Cloudy/20-30,Oil Beans
+168,Nashik/Summer/Warkas land/Cloudy/30-40,Oil Beans
+169,Nashik/Summer/Warkas land/Sunny/10-20,Oil Beans
+170,Nashik/Summer/Warkas land/Sunny/20-30,Oil Beans
+171,Nashik/Summer/Warkas land/Sunny/30-40,Oil Beans
+172,Nashik/Summer/Rice land/Overcast/10-20,Oil Beans
+173,Nashik/Summer/Rice land/Overcast/20-30,Oil Beans
+174,Nashik/Summer/Rice land/Overcast/30-40,Oil Beans
+175,Nashik/Summer/Rice land/Cloudy/10-20,Oil Beans
+176,Nashik/Summer/Rice land/Cloudy/20-30,Oil Beans
+177,Nashik/Summer/Rice land/Cloudy/30-40,Oil Beans
+178,Nashik/Summer/Rice land/Sunny/10-20,Oil Beans
+179,Nashik/Summer/Rice land/Sunny/20-30,Oil Beans
+180,Nashik/Summer/Rice land/Sunny/30-40,Oil Beans
+181,Nashik/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+182,Nashik/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+183,Nashik/Winter/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+184,Nashik/Winter/Bagayat or irrigated land/Sunny/10-20,SugerCane
+185,Nashik/Winter/Bagayat or irrigated land/Sunny/20-30,SugerCane
+186,Nashik/Winter/Bagayat or irrigated land/Sunny/30-40,SugerCane
+187,Nashik/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+188,Nashik/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+189,Nashik/Winter/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+190,Nashik/Winter/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+191,Nashik/Winter/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+192,Nashik/Winter/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+193,Nashik/Winter/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+194,Nashik/Winter/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+195,Nashik/Winter/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+196,Nashik/Winter/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+197,Nashik/Winter/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+198,Nashik/Winter/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+199,Nashik/Winter/Warkas land/Overcast/10-20,SugerCane
+200,Nashik/Winter/Warkas land/Overcast/20-30,SugerCane
+201,Nashik/Winter/Warkas land/Overcast/30-40,SugerCane
+202,Nashik/Winter/Warkas land/Cloudy/10-20,SugerCane
+203,Nashik/Winter/Warkas land/Cloudy/20-30,SugerCane
+204,Nashik/Winter/Warkas land/Cloudy/30-40,SugerCane
+205,Nashik/Winter/Warkas land/Sunny/10-20,SugerCane
+206,Nashik/Winter/Warkas land/Sunny/20-30,SugerCane
+207,Nashik/Winter/Warkas land/Sunny/30-40,SugerCane
+208,Nashik/Winter/Rice land/Overcast/10-20,SugerCane
+209,Nashik/Winter/Rice land/Overcast/20-30,SugerCane
+210,Nashik/Winter/Rice land/Overcast/30-40,SugerCane
+211,Nashik/Winter/Rice land/Cloudy/10-20,SugerCane
+212,Nashik/Winter/Rice land/Cloudy/20-30,SugerCane
+213,Nashik/Winter/Rice land/Cloudy/30-40,SugerCane
+214,Nashik/Winter/Rice land/Sunny/10-20,SugerCane
+215,Nashik/Winter/Rice land/Sunny/20-30,SugerCane
+216,Nashik/Winter/Rice land/Sunny/30-40,SugerCane
+217,Solapur/Rainy/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+218,Solapur/Rainy/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+219,Solapur/Rainy/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+220,Solapur/Rainy/Bagayat or irrigated land/Sunny/10-20,SugerCane
+221,Solapur/Rainy/Bagayat or irrigated land/Sunny/20-30,SugerCane
+222,Solapur/Rainy/Bagayat or irrigated land/Sunny/30-40,SugerCane
+223,Solapur/Rainy/Bagayat or irrigated land/Overcast/10-20,SugerCane
+224,Solapur/Rainy/Bagayat or irrigated land/Overcast/20-30,SugerCane
+225,Solapur/Rainy/Bagayat or irrigated land/Overcast/30-40,SugerCane
+226,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+227,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+228,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+229,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+230,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+231,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+232,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+233,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+234,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+235,Solapur/Rainy/Warkas land/Overcast/10-20,SugerCane
+236,Solapur/Rainy/Warkas land/Overcast/20-30,SugerCane
+237,Solapur/Rainy/Warkas land/Overcast/30-40,SugerCane
+238,Solapur/Rainy/Warkas land/Cloudy/10-20,SugerCane
+239,Solapur/Rainy/Warkas land/Cloudy/20-30,SugerCane
+240,Solapur/Rainy/Warkas land/Cloudy/30-40,SugerCane
+241,Solapur/Rainy/Warkas land/Sunny/10-20,SugerCane
+242,Solapur/Rainy/Warkas land/Sunny/20-30,SugerCane
+243,Solapur/Rainy/Warkas land/Sunny/30-40,SugerCane
+244,Solapur/Rainy/Rice land/Overcast/10-20,Rice
+245,Solapur/Rainy/Rice land/Overcast/20-30,Rice
+246,Solapur/Rainy/Rice land/Overcast/30-40,Rice
+247,Solapur/Rainy/Rice land/Cloudy/10-20,Rice
+248,Solapur/Rainy/Rice land/Cloudy/20-30,Rice
+249,Solapur/Rainy/Rice land/Cloudy/30-40,Rice
+250,Solapur/Rainy/Rice land/Sunny/10-20,Rice
+251,Solapur/Rainy/Rice land/Sunny/20-30,Rice
+252,Solapur/Rainy/Rice land/Sunny/30-40,Rice
+253,Solapur/Summer/Bagayat or irrigated land/Cloudy/10-20,Jowar
+254,Solapur/Summer/Bagayat or irrigated land/Cloudy/20-30,Jowar
+255,Solapur/Summer/Bagayat or irrigated land/Cloudy/30-40,Jowar
+256,Solapur/Summer/Bagayat or irrigated land/Sunny/10-20,Jowar
+257,Solapur/Summer/Bagayat or irrigated land/Sunny/20-30,Jowar
+258,Solapur/Summer/Bagayat or irrigated land/Sunny/30-40,Jowar
+259,Solapur/Summer/Bagayat or irrigated land/Overcast/10-20,Jowar
+260,Solapur/Summer/Bagayat or irrigated land/Overcast/20-30,Jowar
+261,Solapur/Summer/Bagayat or irrigated land/Overcast/30-40,Jowar
+262,Solapur/Summer/Jirayat land (Dry crop)/Overcast/10-20,Jowar
+263,Solapur/Summer/Jirayat land (Dry crop)/Overcast/20-30,Jowar
+264,Solapur/Summer/Jirayat land (Dry crop)/Overcast/30-40,Jowar
+265,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Jowar
+266,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Jowar
+267,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Jowar
+268,Solapur/Summer/Jirayat land (Dry crop)/Sunny/10-20,Jowar
+269,Solapur/Summer/Jirayat land (Dry crop)/Sunny/20-30,Jowar
+270,Solapur/Summer/Jirayat land (Dry crop)/Sunny/30-40,Jowar
+271,Solapur/Summer/Warkas land/Overcast/10-20,Jowar
+272,Solapur/Summer/Warkas land/Overcast/20-30,Jowar
+273,Solapur/Summer/Warkas land/Overcast/30-40,Jowar
+274,Solapur/Summer/Warkas land/Cloudy/10-20,Jowar
+275,Solapur/Summer/Warkas land/Cloudy/20-30,Jowar
+276,Solapur/Summer/Warkas land/Cloudy/30-40,Jowar
+277,Solapur/Summer/Warkas land/Sunny/10-20,Jowar
+278,Solapur/Summer/Warkas land/Sunny/20-30,Jowar
+279,Solapur/Summer/Warkas land/Sunny/30-40,Jowar
+280,Solapur/Summer/Rice land/Overcast/10-20,Jowar
+281,Solapur/Summer/Rice land/Overcast/20-30,Jowar
+282,Solapur/Summer/Rice land/Overcast/30-40,Jowar
+283,Solapur/Summer/Rice land/Cloudy/10-20,Jowar
+284,Solapur/Summer/Rice land/Cloudy/20-30,Jowar
+285,Solapur/Summer/Rice land/Cloudy/30-40,Jowar
+286,Solapur/Summer/Rice land/Sunny/10-20,Jowar
+287,Solapur/Summer/Rice land/Sunny/20-30,Jowar
+288,Solapur/Summer/Rice land/Sunny/30-40,Jowar
+289,Solapur/Winter/Bagayat or irrigated land/Cloudy/10-20,Wheat
+290,Solapur/Winter/Bagayat or irrigated land/Cloudy/20-30,Wheat
+291,Solapur/Winter/Bagayat or irrigated land/Cloudy/30-40,Wheat
+292,Solapur/Winter/Bagayat or irrigated land/Sunny/10-20,Wheat
+293,Solapur/Winter/Bagayat or irrigated land/Sunny/20-30,Wheat
+294,Solapur/Winter/Bagayat or irrigated land/Sunny/30-40,Wheat
+295,Solapur/Winter/Bagayat or irrigated land/Cloudy/10-20,Wheat
+296,Solapur/Winter/Bagayat or irrigated land/Cloudy/20-30,Wheat
+297,Solapur/Winter/Bagayat or irrigated land/Cloudy/30-40,Wheat
+298,Solapur/Winter/Jirayat land (Dry crop)/Sunny/10-20,Wheat
+299,Solapur/Winter/Jirayat land (Dry crop)/Sunny/20-30,Wheat
+300,Solapur/Winter/Jirayat land (Dry crop)/Sunny/30-40,Wheat
+301,Solapur/Winter/Jirayat land (Dry crop)/Overcast/10-20,Wheat
+302,Solapur/Winter/Jirayat land (Dry crop)/Overcast/20-30,Wheat
+303,Solapur/Winter/Jirayat land (Dry crop)/Overcast/30-40,Wheat
+304,Solapur/Winter/Jirayat land (Dry crop)/Overcast/10-20,Wheat
+305,Solapur/Winter/Jirayat land (Dry crop)/Overcast/20-30,Wheat
+306,Solapur/Winter/Jirayat land (Dry crop)/Overcast/30-40,Wheat
+307,Solapur/Winter/Warkas land/Overcast/10-20,Wheat
+308,Solapur/Winter/Warkas land/Overcast/20-30,Wheat
+309,Solapur/Winter/Warkas land/Overcast/30-40,Wheat
+310,Solapur/Winter/Warkas land/Cloudy/10-20,Wheat
+311,Solapur/Winter/Warkas land/Cloudy/20-30,Wheat
+312,Solapur/Winter/Warkas land/Cloudy/30-40,Wheat
+313,Solapur/Winter/Warkas land/Sunny/10-20,Wheat
+314,Solapur/Winter/Warkas land/Sunny/20-30,Wheat
+315,Solapur/Winter/Warkas land/Sunny/30-40,Wheat
+316,Solapur/Winter/Rice land/Overcast/10-20,Wheat
+317,Solapur/Winter/Rice land/Overcast/20-30,Wheat
+318,Solapur/Winter/Rice land/Overcast/30-40,Wheat
+319,Solapur/Winter/Rice land/Cloudy/10-20,Wheat
+320,Solapur/Winter/Rice land/Cloudy/20-30,Wheat
+321,Solapur/Winter/Rice land/Cloudy/30-40,Wheat
+322,Solapur/Winter/Rice land/Sunny/10-20,Wheat
+323,Solapur/Winter/Rice land/Sunny/20-30,Wheat
+324,Solapur/Winter/Rice land/Sunny/30-40,Wheat
+325,Sangali/Rainy/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+326,Sangali/Rainy/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+327,Sangali/Rainy/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+328,Sangali/Rainy/Bagayat or irrigated land/Sunny/10-20,SugerCane
+329,Sangali/Rainy/Bagayat or irrigated land/Sunny/20-30,SugerCane
+330,Sangali/Rainy/Bagayat or irrigated land/Sunny/30-40,SugerCane
+331,Sangali/Rainy/Bagayat or irrigated land/Overcast/10-20,SugerCane
+332,Sangali/Rainy/Bagayat or irrigated land/Overcast/20-30,SugerCane
+333,Sangali/Rainy/Bagayat or irrigated land/Overcast/30-40,SugerCane
+334,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+335,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+336,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+337,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+338,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+339,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+340,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+341,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+342,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+343,Sangali/Rainy/Warkas land/Overcast/10-20,SugerCane
+344,Sangali/Rainy/Warkas land/Overcast/20-30,SugerCane
+345,Sangali/Rainy/Warkas land/Overcast/30-40,SugerCane
+346,Sangali/Rainy/Warkas land/Cloudy/10-20,SugerCane
+347,Sangali/Rainy/Warkas land/Cloudy/20-30,SugerCane
+348,Sangali/Rainy/Warkas land/Cloudy/30-40,SugerCane
+349,Sangali/Rainy/Warkas land/Sunny/10-20,SugerCane
+350,Sangali/Rainy/Warkas land/Sunny/20-30,SugerCane
+351,Sangali/Rainy/Warkas land/Sunny/30-40,SugerCane
+352,Sangali/Rainy/Rice land/Overcast/10-20,Rice
+353,Sangali/Rainy/Rice land/Overcast/20-30,Rice
+354,Sangali/Rainy/Rice land/Overcast/30-40,Rice
+355,Sangali/Rainy/Rice land/Cloudy/10-20,Rice
+356,Sangali/Rainy/Rice land/Cloudy/20-30,Rice
+357,Sangali/Rainy/Rice land/Cloudy/30-40,Rice
+358,Sangali/Rainy/Rice land/Sunny/10-20,Rice
+359,Sangali/Rainy/Rice land/Sunny/20-30,Rice
+360,Sangali/Rainy/Rice land/Sunny/30-40,Rice
+361,Sangali/Summer/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+362,Sangali/Summer/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+363,Sangali/Summer/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+364,Sangali/Summer/Bagayat or irrigated land/Sunny/10-20,SugerCane
+365,Sangali/Summer/Bagayat or irrigated land/Sunny/20-30,SugerCane
+366,Sangali/Summer/Bagayat or irrigated land/Sunny/30-40,SugerCane
+367,Sangali/Summer/Bagayat or irrigated land/Overcast/10-20,SugerCane
+368,Sangali/Summer/Bagayat or irrigated land/Overcast/20-30,SugerCane
+369,Sangali/Summer/Bagayat or irrigated land/Overcast/30-40,SugerCane
+370,Sangali/Summer/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+371,Sangali/Summer/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+372,Sangali/Summer/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+373,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+374,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+375,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+376,Sangali/Summer/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+377,Sangali/Summer/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+378,Sangali/Summer/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+379,Sangali/Summer/Warkas land/Overcast/10-20,SugerCane
+380,Sangali/Summer/Warkas land/Overcast/20-30,SugerCane
+381,Sangali/Summer/Warkas land/Overcast/30-40,SugerCane
+382,Sangali/Summer/Warkas land/Cloudy/10-20,SugerCane
+383,Sangali/Summer/Warkas land/Cloudy/20-30,SugerCane
+384,Sangali/Summer/Warkas land/Cloudy/30-40,SugerCane
+385,Sangali/Summer/Warkas land/Sunny/10-20,SugerCane
+386,Sangali/Summer/Warkas land/Sunny/20-30,SugerCane
+387,Sangali/Summer/Warkas land/Sunny/30-40,SugerCane
+388,Sangali/Summer/Rice land/Overcast/10-20,SugerCane
+389,Sangali/Summer/Rice land/Overcast/20-30,SugerCane
+390,Sangali/Summer/Rice land/Overcast/30-40,SugerCane
+391,Sangali/Summer/Rice land/Cloudy/10-20,SugerCane
+392,Sangali/Summer/Rice land/Cloudy/20-30,SugerCane
+393,Sangali/Summer/Rice land/Cloudy/30-40,SugerCane
+394,Sangali/Summer/Rice land/Sunny/10-20,SugerCane
+395,Sangali/Summer/Rice land/Sunny/20-30,SugerCane
+396,Sangali/Summer/Rice land/Sunny/30-40,SugerCane
+397,Sangali/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+398,Sangali/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+399,Sangali/Winter/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+400,Sangali/Winter/Bagayat or irrigated land/Sunny/10-20,SugerCane
+401,Sangali/Winter/Bagayat or irrigated land/Sunny/20-30,SugerCane
+402,Sangali/Winter/Bagayat or irrigated land/Sunny/30-40,SugerCane
+403,Sangali/Winter/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+404,Sangali/Winter/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+405,Sangali/Winter/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+406,Sangali/Winter/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+407,Sangali/Winter/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+408,Sangali/Winter/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+409,Sangali/Winter/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+410,Sangali/Winter/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+411,Sangali/Winter/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+412,Sangali/Winter/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+413,Sangali/Winter/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+414,Sangali/Winter/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+415,Sangali/Winter/Warkas land/Overcast/10-20,SugerCane
+416,Sangali/Winter/Warkas land/Overcast/20-30,SugerCane
+417,Sangali/Winter/Warkas land/Overcast/30-40,SugerCane
+418,Sangali/Winter/Warkas land/Cloudy/10-20,SugerCane
+419,Sangali/Winter/Warkas land/Cloudy/20-30,SugerCane
+420,Sangali/Winter/Warkas land/Cloudy/30-40,SugerCane
+421,Sangali/Winter/Warkas land/Sunny/10-20,SugerCane
+422,Sangali/Winter/Warkas land/Sunny/20-30,SugerCane
+423,Sangali/Winter/Warkas land/Sunny/30-40,SugerCane
+424,Sangali/Winter/Rice land/Overcast/10-20,Rice
+425,Sangali/Winter/Rice land/Overcast/20-30,Rice
+426,Sangali/Winter/Rice land/Overcast/30-40,Rice
+427,Sangali/Winter/Rice land/Cloudy/10-20,Rice
+428,Sangali/Winter/Rice land/Cloudy/20-30,Rice
+429,Sangali/Winter/Rice land/Cloudy/30-40,Rice
+430,Sangali/Winter/Rice land/Sunny/10-20,Rice
+431,Sangali/Winter/Rice land/Sunny/20-30,Rice
+432,Sangali/Winter/Rice land/Sunny/30-40,Rice
+433,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+434,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+435,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+436,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/10-20,SugerCane
+437,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/20-30,SugerCane
+438,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/30-40,SugerCane
+439,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/10-20,SugerCane
+440,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/20-30,SugerCane
+441,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/30-40,SugerCane
+442,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+443,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+444,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+445,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+446,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+447,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+448,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+449,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+450,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+451,Ahemadnagar/Rainy/Warkas land/Overcast/10-20,SugerCane
+452,Ahemadnagar/Rainy/Warkas land/Overcast/20-30,SugerCane
+453,Ahemadnagar/Rainy/Warkas land/Overcast/30-40,SugerCane
+454,Ahemadnagar/Rainy/Warkas land/Cloudy/10-20,SugerCane
+455,Ahemadnagar/Rainy/Warkas land/Cloudy/20-30,SugerCane
+456,Ahemadnagar/Rainy/Warkas land/Cloudy/30-40,SugerCane
+457,Ahemadnagar/Rainy/Warkas land/Sunny/10-20,SugerCane
+458,Ahemadnagar/Rainy/Warkas land/Sunny/20-30,SugerCane
+459,Ahemadnagar/Rainy/Warkas land/Sunny/30-40,SugerCane
+460,Ahemadnagar/Rainy/Rice land/Overcast/10-20,Rice
+461,Ahemadnagar/Rainy/Rice land/Overcast/20-30,Rice
+462,Ahemadnagar/Rainy/Rice land/Overcast/30-40,Rice
+463,Ahemadnagar/Rainy/Rice land/Cloudy/10-20,Rice
+464,Ahemadnagar/Rainy/Rice land/Cloudy/20-30,Rice
+465,Ahemadnagar/Rainy/Rice land/Cloudy/30-40,Rice
+466,Ahemadnagar/Rainy/Rice land/Sunny/10-20,Rice
+467,Ahemadnagar/Rainy/Rice land/Sunny/20-30,Rice
+468,Ahemadnagar/Rainy/Rice land/Sunny/30-40,Rice
+469,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/10-20,SugerCane
+470,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/20-30,SugerCane
+471,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/30-40,SugerCane
+472,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/10-20,SugerCane
+473,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/20-30,SugerCane
+474,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/30-40,SugerCane
+475,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/10-20,SugerCane
+476,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/20-30,SugerCane
+477,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/30-40,SugerCane
+478,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/10-20,SugerCane
+479,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/20-30,SugerCane
+480,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/30-40,SugerCane
+481,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/10-20,SugerCane
+482,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/20-30,SugerCane
+483,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/30-40,SugerCane
+484,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/10-20,SugerCane
+485,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/20-30,SugerCane
+486,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/30-40,SugerCane
+487,Ahemadnagar/Summer/Warkas land/Overcast/10-20,SugerCane
+488,Ahemadnagar/Summer/Warkas land/Overcast/20-30,SugerCane
+489,Ahemadnagar/Summer/Warkas land/Overcast/30-40,SugerCane
+490,Ahemadnagar/Summer/Warkas land/Cloudy/10-20,SugerCane
+491,Ahemadnagar/Summer/Warkas land/Cloudy/20-30,SugerCane
+492,Ahemadnagar/Summer/Warkas land/Cloudy/30-40,SugerCane
+493,Ahemadnagar/Summer/Warkas land/Sunny/10-20,SugerCane
+494,Ahemadnagar/Summer/Warkas land/Sunny/20-30,SugerCane
+495,Ahemadnagar/Summer/Warkas land/Sunny/30-40,SugerCane
+496,Ahemadnagar/Summer/Rice land/Overcast/10-20,SugerCane
+497,Ahemadnagar/Summer/Rice land/Overcast/20-30,SugerCane
+498,Ahemadnagar/Summer/Rice land/Overcast/30-40,SugerCane
+499,Ahemadnagar/Summer/Rice land/Cloudy/10-20,SugerCane
+500,Ahemadnagar/Summer/Rice land/Cloudy/20-30,SugerCane
+501,Ahemadnagar/Summer/Rice land/Cloudy/30-40,SugerCane
+502,Ahemadnagar/Summer/Rice land/Sunny/10-20,SugerCane
+503,Ahemadnagar/Summer/Rice land/Sunny/20-30,SugerCane
+504,Ahemadnagar/Summer/Rice land/Sunny/30-40,SugerCane
+505,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/10-20,Soyabean
+506,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/20-30,Soyabean
+507,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/30-40,Soyabean
+508,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/10-20,Soyabean
+509,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/20-30,Soyabean
+510,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/30-40,Soyabean
+511,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/10-20,Soyabean
+512,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/20-30,Soyabean
+513,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/30-40,Soyabean
+514,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/10-20,Soyabean
+515,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/20-30,Soyabean
+516,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/30-40,Soyabean
+517,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/10-20,Soyabean
+518,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/20-30,Soyabean
+519,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/30-40,Soyabean
+520,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/10-20,Soyabean
+521,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/20-30,Soyabean
+522,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/30-40,Soyabean
+523,Ahemadnagar/Winter/Warkas land/Overcast/10-20,Soyabean
+524,Ahemadnagar/Winter/Warkas land/Overcast/20-30,Soyabean
+525,Ahemadnagar/Winter/Warkas land/Overcast/30-40,Soyabean
+526,Ahemadnagar/Winter/Warkas land/Cloudy/10-20,Soyabean
+527,Ahemadnagar/Winter/Warkas land/Cloudy/20-30,Soyabean
+528,Ahemadnagar/Winter/Warkas land/Cloudy/30-40,Soyabean
+529,Ahemadnagar/Winter/Warkas land/Sunny/10-20,Soyabean
+530,Ahemadnagar/Winter/Warkas land/Sunny/20-30,Soyabean
+531,Ahemadnagar/Winter/Warkas land/Sunny/30-40,Soyabean
+532,Ahemadnagar/Winter/Rice land/Overcast/10-20,Soyabean
+533,Ahemadnagar/Winter/Rice land/Overcast/20-30,Soyabean
+534,Ahemadnagar/Winter/Rice land/Overcast/30-40,Soyabean
+535,Ahemadnagar/Winter/Rice land/Cloudy/10-20,Soyabean
+536,Ahemadnagar/Winter/Rice land/Cloudy/20-30,Soyabean
+537,Ahemadnagar/Winter/Rice land/Cloudy/30-40,Soyabean
+538,Ahemadnagar/Winter/Rice land/Sunny/10-20,Soyabean
+539,Ahemadnagar/Winter/Rice land/Sunny/20-30,Soyabean
+540,Ahemadnagar/Winter/Rice land/Sunny/30-40,Soyabean
+541,Pune/Rainy/Bagayat or irrigated land/Cloudy/10-20,Cotton
+542,Pune/Rainy/Bagayat or irrigated land/Cloudy/20-30,Cotton
+543,Pune/Rainy/Bagayat or irrigated land/Cloudy/30-40,Cotton
+544,Pune/Rainy/Bagayat or irrigated land/Sunny/10-20,Cotton
+545,Pune/Rainy/Bagayat or irrigated land/Sunny/20-30,Cotton
+546,Pune/Rainy/Bagayat or irrigated land/Sunny/30-40,Cotton
+547,Pune/Rainy/Bagayat or irrigated land/Overcast/10-20,Cotton
+548,Pune/Rainy/Bagayat or irrigated land/Overcast/20-30,Cotton
+549,Pune/Rainy/Bagayat or irrigated land/Overcast/30-40,Cotton
+550,Pune/Rainy/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+551,Pune/Rainy/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+552,Pune/Rainy/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+553,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+554,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+555,Pune/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+556,Pune/Rainy/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+557,Pune/Rainy/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+558,Pune/Rainy/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+559,Pune/Rainy/Warkas land/Overcast/10-20,Cotton
+560,Pune/Rainy/Warkas land/Overcast/20-30,Cotton
+561,Pune/Rainy/Warkas land/Overcast/30-40,Cotton
+562,Pune/Rainy/Warkas land/Cloudy/10-20,Cotton
+563,Pune/Rainy/Warkas land/Cloudy/20-30,Cotton
+564,Pune/Rainy/Warkas land/Cloudy/30-40,Cotton
+565,Pune/Rainy/Warkas land/Sunny/10-20,Cotton
+566,Pune/Rainy/Warkas land/Sunny/20-30,Cotton
+567,Pune/Rainy/Warkas land/Sunny/30-40,Cotton
+568,Pune/Rainy/Rice land/Overcast/10-20,Cotton
+569,Pune/Rainy/Rice land/Overcast/20-30,Cotton
+570,Pune/Rainy/Rice land/Overcast/30-40,Cotton
+571,Pune/Rainy/Rice land/Cloudy/10-20,Cotton
+572,Pune/Rainy/Rice land/Cloudy/20-30,Cotton
+573,Pune/Rainy/Rice land/Cloudy/30-40,Cotton
+574,Pune/Rainy/Rice land/Sunny/10-20,Cotton
+575,Pune/Rainy/Rice land/Sunny/20-30,Cotton
+576,Pune/Rainy/Rice land/Sunny/30-40,Cotton
+577,Pune/Summer/Bagayat or irrigated land/Cloudy/10-20,Cotton
+578,Pune/Summer/Bagayat or irrigated land/Cloudy/20-30,Cotton
+579,Pune/Summer/Bagayat or irrigated land/Cloudy/30-40,Cotton
+580,Pune/Summer/Bagayat or irrigated land/Sunny/10-20,Cotton
+581,Pune/Summer/Bagayat or irrigated land/Sunny/20-30,Cotton
+582,Pune/Summer/Bagayat or irrigated land/Sunny/30-40,Cotton
+583,Pune/Summer/Bagayat or irrigated land/Overcast/10-20,Cotton
+584,Pune/Summer/Bagayat or irrigated land/Overcast/20-30,Cotton
+585,Pune/Summer/Bagayat or irrigated land/Overcast/30-40,Cotton
+586,Pune/Summer/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+587,Pune/Summer/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+588,Pune/Summer/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+589,Pune/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+590,Pune/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+591,Pune/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+592,Pune/Summer/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+593,Pune/Summer/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+594,Pune/Summer/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+595,Pune/Summer/Warkas land/Overcast/10-20,Cotton
+596,Pune/Summer/Warkas land/Overcast/20-30,Cotton
+597,Pune/Summer/Warkas land/Overcast/30-40,Cotton
+598,Pune/Summer/Warkas land/Cloudy/10-20,Cotton
+599,Pune/Summer/Warkas land/Cloudy/20-30,Cotton
+600,Pune/Summer/Warkas land/Cloudy/30-40,Cotton
+601,Pune/Summer/Warkas land/Sunny/10-20,Cotton
+602,Pune/Summer/Warkas land/Sunny/20-30,Cotton
+603,Pune/Summer/Warkas land/Sunny/30-40,Cotton
+604,Pune/Summer/Rice land/Overcast/10-20,Cotton
+605,Pune/Summer/Rice land/Overcast/20-30,Cotton
+606,Pune/Summer/Rice land/Overcast/30-40,Cotton
+607,Pune/Summer/Rice land/Cloudy/10-20,Cotton
+608,Pune/Summer/Rice land/Cloudy/20-30,Cotton
+609,Pune/Summer/Rice land/Cloudy/30-40,Cotton
+610,Pune/Summer/Rice land/Sunny/10-20,Cotton
+611,Pune/Summer/Rice land/Sunny/20-30,Cotton
+612,Pune/Summer/Rice land/Sunny/30-40,Cotton
+613,Pune/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+614,Pune/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+615,Pune/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+616,Pune/Winter/Bagayat or irrigated land/Sunny/10-20,Cotton
+617,Pune/Winter/Bagayat or irrigated land/Sunny/20-30,Cotton
+618,Pune/Winter/Bagayat or irrigated land/Sunny/30-40,Cotton
+619,Pune/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+620,Pune/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+621,Pune/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+622,Pune/Winter/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+623,Pune/Winter/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+624,Pune/Winter/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+625,Pune/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+626,Pune/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+627,Pune/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+628,Pune/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+629,Pune/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+630,Pune/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+631,Pune/Winter/Warkas land/Overcast/10-20,Cotton
+632,Pune/Winter/Warkas land/Overcast/20-30,Cotton
+633,Pune/Winter/Warkas land/Overcast/30-40,Cotton
+634,Pune/Winter/Warkas land/Cloudy/10-20,Cotton
+635,Pune/Winter/Warkas land/Cloudy/20-30,Cotton
+636,Pune/Winter/Warkas land/Cloudy/30-40,Cotton
+637,Pune/Winter/Warkas land/Sunny/10-20,Cotton
+638,Pune/Winter/Warkas land/Sunny/20-30,Cotton
+639,Pune/Winter/Warkas land/Sunny/30-40,Cotton
+640,Pune/Winter/Rice land/Overcast/10-20,Cotton
+641,Pune/Winter/Rice land/Overcast/20-30,Cotton
+642,Pune/Winter/Rice land/Overcast/30-40,Cotton
+643,Pune/Winter/Rice land/Cloudy/10-20,Cotton
+644,Pune/Winter/Rice land/Cloudy/20-30,Cotton
+645,Pune/Winter/Rice land/Cloudy/30-40,Cotton
+646,Pune/Winter/Rice land/Sunny/10-20,Cotton
+647,Pune/Winter/Rice land/Sunny/20-30,Cotton
+648,Pune/Winter/Rice land/Sunny/30-40,Cotton
+649,Nashik/Rainy/Bagayat or irrigated land/Cloudy/10-20,Cotton
+650,Nashik/Rainy/Bagayat or irrigated land/Cloudy/20-30,Cotton
+651,Nashik/Rainy/Bagayat or irrigated land/Cloudy/30-40,Cotton
+652,Nashik/Rainy/Bagayat or irrigated land/Sunny/10-20,Cotton
+653,Nashik/Rainy/Bagayat or irrigated land/Sunny/20-30,Cotton
+654,Nashik/Rainy/Bagayat or irrigated land/Sunny/30-40,Cotton
+655,Nashik/Rainy/Bagayat or irrigated land/Overcast/10-20,Cotton
+656,Nashik/Rainy/Bagayat or irrigated land/Overcast/20-30,Cotton
+657,Nashik/Rainy/Bagayat or irrigated land/Overcast/30-40,Cotton
+658,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+659,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+660,Nashik/Rainy/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+661,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+662,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+663,Nashik/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+664,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+665,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+666,Nashik/Rainy/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+667,Nashik/Rainy/Warkas land/Overcast/10-20,Cotton
+668,Nashik/Rainy/Warkas land/Overcast/20-30,Cotton
+669,Nashik/Rainy/Warkas land/Overcast/30-40,Cotton
+670,Nashik/Rainy/Warkas land/Cloudy/10-20,Cotton
+671,Nashik/Rainy/Warkas land/Cloudy/20-30,Cotton
+672,Nashik/Rainy/Warkas land/Cloudy/30-40,Cotton
+673,Nashik/Rainy/Warkas land/Sunny/10-20,Cotton
+674,Nashik/Rainy/Warkas land/Sunny/20-30,Cotton
+675,Nashik/Rainy/Warkas land/Sunny/30-40,Cotton
+676,Nashik/Rainy/Rice land/Overcast/10-20,Cotton
+677,Nashik/Rainy/Rice land/Overcast/20-30,Cotton
+678,Nashik/Rainy/Rice land/Overcast/30-40,Cotton
+679,Nashik/Rainy/Rice land/Cloudy/10-20,Cotton
+680,Nashik/Rainy/Rice land/Cloudy/20-30,Cotton
+681,Nashik/Rainy/Rice land/Cloudy/30-40,Cotton
+682,Nashik/Rainy/Rice land/Sunny/10-20,Cotton
+683,Nashik/Rainy/Rice land/Sunny/20-30,Cotton
+684,Nashik/Rainy/Rice land/Sunny/30-40,Cotton
+685,Nashik/Summer/Bagayat or irrigated land/Cloudy/10-20,Cotton
+686,Nashik/Summer/Bagayat or irrigated land/Cloudy/20-30,Cotton
+687,Nashik/Summer/Bagayat or irrigated land/Cloudy/30-40,Cotton
+688,Nashik/Summer/Bagayat or irrigated land/Sunny/10-20,Cotton
+689,Nashik/Summer/Bagayat or irrigated land/Sunny/20-30,Cotton
+690,Nashik/Summer/Bagayat or irrigated land/Sunny/30-40,Cotton
+691,Nashik/Summer/Bagayat or irrigated land/Overcast/10-20,Cotton
+692,Nashik/Summer/Bagayat or irrigated land/Overcast/20-30,Cotton
+693,Nashik/Summer/Bagayat or irrigated land/Overcast/30-40,Cotton
+694,Nashik/Summer/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+695,Nashik/Summer/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+696,Nashik/Summer/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+697,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+698,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+699,Nashik/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+700,Nashik/Summer/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+701,Nashik/Summer/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+702,Nashik/Summer/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+703,Nashik/Summer/Warkas land/Overcast/10-20,Cotton
+704,Nashik/Summer/Warkas land/Overcast/20-30,Cotton
+705,Nashik/Summer/Warkas land/Overcast/30-40,Cotton
+706,Nashik/Summer/Warkas land/Cloudy/10-20,Cotton
+707,Nashik/Summer/Warkas land/Cloudy/20-30,Cotton
+708,Nashik/Summer/Warkas land/Cloudy/30-40,Cotton
+709,Nashik/Summer/Warkas land/Sunny/10-20,Cotton
+710,Nashik/Summer/Warkas land/Sunny/20-30,Cotton
+711,Nashik/Summer/Warkas land/Sunny/30-40,Cotton
+712,Nashik/Summer/Rice land/Overcast/10-20,Cotton
+713,Nashik/Summer/Rice land/Overcast/20-30,Cotton
+714,Nashik/Summer/Rice land/Overcast/30-40,Cotton
+715,Nashik/Summer/Rice land/Cloudy/10-20,Cotton
+716,Nashik/Summer/Rice land/Cloudy/20-30,Cotton
+717,Nashik/Summer/Rice land/Cloudy/30-40,Cotton
+718,Nashik/Summer/Rice land/Sunny/10-20,Cotton
+719,Nashik/Summer/Rice land/Sunny/20-30,Cotton
+720,Nashik/Summer/Rice land/Sunny/30-40,Cotton
+721,Nashik/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+722,Nashik/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+723,Nashik/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+724,Nashik/Winter/Bagayat or irrigated land/Sunny/10-20,Cotton
+725,Nashik/Winter/Bagayat or irrigated land/Sunny/20-30,Cotton
+726,Nashik/Winter/Bagayat or irrigated land/Sunny/30-40,Cotton
+727,Nashik/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+728,Nashik/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+729,Nashik/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+730,Nashik/Winter/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+731,Nashik/Winter/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+732,Nashik/Winter/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+733,Nashik/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+734,Nashik/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+735,Nashik/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+736,Nashik/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+737,Nashik/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+738,Nashik/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+739,Nashik/Winter/Warkas land/Overcast/10-20,Cotton
+740,Nashik/Winter/Warkas land/Overcast/20-30,Cotton
+741,Nashik/Winter/Warkas land/Overcast/30-40,Cotton
+742,Nashik/Winter/Warkas land/Cloudy/10-20,Cotton
+743,Nashik/Winter/Warkas land/Cloudy/20-30,Cotton
+744,Nashik/Winter/Warkas land/Cloudy/30-40,Cotton
+745,Nashik/Winter/Warkas land/Sunny/10-20,Cotton
+746,Nashik/Winter/Warkas land/Sunny/20-30,Cotton
+747,Nashik/Winter/Warkas land/Sunny/30-40,Cotton
+748,Nashik/Winter/Rice land/Overcast/10-20,Cotton
+749,Nashik/Winter/Rice land/Overcast/20-30,Cotton
+750,Nashik/Winter/Rice land/Overcast/30-40,Cotton
+751,Nashik/Winter/Rice land/Cloudy/10-20,Cotton
+752,Nashik/Winter/Rice land/Cloudy/20-30,Cotton
+753,Nashik/Winter/Rice land/Cloudy/30-40,Cotton
+754,Nashik/Winter/Rice land/Sunny/10-20,Cotton
+755,Nashik/Winter/Rice land/Sunny/20-30,Cotton
+756,Nashik/Winter/Rice land/Sunny/30-40,Cotton
+757,Solapur/Rainy/Bagayat or irrigated land/Cloudy/10-20,Cotton
+758,Solapur/Rainy/Bagayat or irrigated land/Cloudy/20-30,Cotton
+759,Solapur/Rainy/Bagayat or irrigated land/Cloudy/30-40,Cotton
+760,Solapur/Rainy/Bagayat or irrigated land/Sunny/10-20,Cotton
+761,Solapur/Rainy/Bagayat or irrigated land/Sunny/20-30,Cotton
+762,Solapur/Rainy/Bagayat or irrigated land/Sunny/30-40,Cotton
+763,Solapur/Rainy/Bagayat or irrigated land/Overcast/10-20,Cotton
+764,Solapur/Rainy/Bagayat or irrigated land/Overcast/20-30,Cotton
+765,Solapur/Rainy/Bagayat or irrigated land/Overcast/30-40,Cotton
+766,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+767,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+768,Solapur/Rainy/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+769,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+770,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+771,Solapur/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+772,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+773,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+774,Solapur/Rainy/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+775,Solapur/Rainy/Warkas land/Overcast/10-20,Cotton
+776,Solapur/Rainy/Warkas land/Overcast/20-30,Cotton
+777,Solapur/Rainy/Warkas land/Overcast/30-40,Cotton
+778,Solapur/Rainy/Warkas land/Cloudy/10-20,Cotton
+779,Solapur/Rainy/Warkas land/Cloudy/20-30,Cotton
+780,Solapur/Rainy/Warkas land/Cloudy/30-40,Cotton
+781,Solapur/Rainy/Warkas land/Sunny/10-20,Cotton
+782,Solapur/Rainy/Warkas land/Sunny/20-30,Cotton
+783,Solapur/Rainy/Warkas land/Sunny/30-40,Cotton
+784,Solapur/Rainy/Rice land/Overcast/10-20,Cotton
+785,Solapur/Rainy/Rice land/Overcast/20-30,Cotton
+786,Solapur/Rainy/Rice land/Overcast/30-40,Cotton
+787,Solapur/Rainy/Rice land/Cloudy/10-20,Cotton
+788,Solapur/Rainy/Rice land/Cloudy/20-30,Cotton
+789,Solapur/Rainy/Rice land/Cloudy/30-40,Cotton
+790,Solapur/Rainy/Rice land/Sunny/10-20,Cotton
+791,Solapur/Rainy/Rice land/Sunny/20-30,Cotton
+792,Solapur/Rainy/Rice land/Sunny/30-40,Cotton
+793,Solapur/Summer/Bagayat or irrigated land/Cloudy/10-20,Cotton
+794,Solapur/Summer/Bagayat or irrigated land/Cloudy/20-30,Cotton
+795,Solapur/Summer/Bagayat or irrigated land/Cloudy/30-40,Cotton
+796,Solapur/Summer/Bagayat or irrigated land/Sunny/10-20,Cotton
+797,Solapur/Summer/Bagayat or irrigated land/Sunny/20-30,Cotton
+798,Solapur/Summer/Bagayat or irrigated land/Sunny/30-40,Cotton
+799,Solapur/Summer/Bagayat or irrigated land/Overcast/10-20,Cotton
+800,Solapur/Summer/Bagayat or irrigated land/Overcast/20-30,Cotton
+801,Solapur/Summer/Bagayat or irrigated land/Overcast/30-40,Cotton
+802,Solapur/Summer/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+803,Solapur/Summer/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+804,Solapur/Summer/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+805,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+806,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+807,Solapur/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+808,Solapur/Summer/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+809,Solapur/Summer/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+810,Solapur/Summer/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+811,Solapur/Summer/Warkas land/Overcast/10-20,Cotton
+812,Solapur/Summer/Warkas land/Overcast/20-30,Cotton
+813,Solapur/Summer/Warkas land/Overcast/30-40,Cotton
+814,Solapur/Summer/Warkas land/Cloudy/10-20,Cotton
+815,Solapur/Summer/Warkas land/Cloudy/20-30,Cotton
+816,Solapur/Summer/Warkas land/Cloudy/30-40,Cotton
+817,Solapur/Summer/Warkas land/Sunny/10-20,Cotton
+818,Solapur/Summer/Warkas land/Sunny/20-30,Cotton
+819,Solapur/Summer/Warkas land/Sunny/30-40,Cotton
+820,Solapur/Summer/Rice land/Overcast/10-20,Cotton
+821,Solapur/Summer/Rice land/Overcast/20-30,Cotton
+822,Solapur/Summer/Rice land/Overcast/30-40,Cotton
+823,Solapur/Summer/Rice land/Cloudy/10-20,Cotton
+824,Solapur/Summer/Rice land/Cloudy/20-30,Cotton
+825,Solapur/Summer/Rice land/Cloudy/30-40,Cotton
+826,Solapur/Summer/Rice land/Sunny/10-20,Cotton
+827,Solapur/Summer/Rice land/Sunny/20-30,Cotton
+828,Solapur/Summer/Rice land/Sunny/30-40,Cotton
+829,Solapur/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+830,Solapur/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+831,Solapur/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+832,Solapur/Winter/Bagayat or irrigated land/Sunny/10-20,Cotton
+833,Solapur/Winter/Bagayat or irrigated land/Sunny/20-30,Cotton
+834,Solapur/Winter/Bagayat or irrigated land/Sunny/30-40,Cotton
+835,Solapur/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+836,Solapur/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+837,Solapur/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+838,Solapur/Winter/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+839,Solapur/Winter/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+840,Solapur/Winter/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+841,Solapur/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+842,Solapur/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+843,Solapur/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+844,Solapur/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+845,Solapur/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+846,Solapur/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+847,Solapur/Winter/Warkas land/Overcast/10-20,Cotton
+848,Solapur/Winter/Warkas land/Overcast/20-30,Cotton
+849,Solapur/Winter/Warkas land/Overcast/30-40,Cotton
+850,Solapur/Winter/Warkas land/Cloudy/10-20,Cotton
+851,Solapur/Winter/Warkas land/Cloudy/20-30,Cotton
+852,Solapur/Winter/Warkas land/Cloudy/30-40,Cotton
+853,Solapur/Winter/Warkas land/Sunny/10-20,Cotton
+854,Solapur/Winter/Warkas land/Sunny/20-30,Cotton
+855,Solapur/Winter/Warkas land/Sunny/30-40,Cotton
+856,Solapur/Winter/Rice land/Overcast/10-20,Cotton
+857,Solapur/Winter/Rice land/Overcast/20-30,Cotton
+858,Solapur/Winter/Rice land/Overcast/30-40,Cotton
+859,Solapur/Winter/Rice land/Cloudy/10-20,Cotton
+860,Solapur/Winter/Rice land/Cloudy/20-30,Cotton
+861,Solapur/Winter/Rice land/Cloudy/30-40,Cotton
+862,Solapur/Winter/Rice land/Sunny/10-20,Cotton
+863,Solapur/Winter/Rice land/Sunny/20-30,Cotton
+864,Solapur/Winter/Rice land/Sunny/30-40,Cotton
+865,Sangali/Rainy/Bagayat or irrigated land/Cloudy/10-20,Cotton
+866,Sangali/Rainy/Bagayat or irrigated land/Cloudy/20-30,Cotton
+867,Sangali/Rainy/Bagayat or irrigated land/Cloudy/30-40,Cotton
+868,Sangali/Rainy/Bagayat or irrigated land/Sunny/10-20,Cotton
+869,Sangali/Rainy/Bagayat or irrigated land/Sunny/20-30,Cotton
+870,Sangali/Rainy/Bagayat or irrigated land/Sunny/30-40,Cotton
+871,Sangali/Rainy/Bagayat or irrigated land/Overcast/10-20,Cotton
+872,Sangali/Rainy/Bagayat or irrigated land/Overcast/20-30,Cotton
+873,Sangali/Rainy/Bagayat or irrigated land/Overcast/30-40,Cotton
+874,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+875,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+876,Sangali/Rainy/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+877,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+878,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+879,Sangali/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+880,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+881,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+882,Sangali/Rainy/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+883,Sangali/Rainy/Warkas land/Overcast/10-20,Cotton
+884,Sangali/Rainy/Warkas land/Overcast/20-30,Cotton
+885,Sangali/Rainy/Warkas land/Overcast/30-40,Cotton
+886,Sangali/Rainy/Warkas land/Cloudy/10-20,Cotton
+887,Sangali/Rainy/Warkas land/Cloudy/20-30,Cotton
+888,Sangali/Rainy/Warkas land/Cloudy/30-40,Cotton
+889,Sangali/Rainy/Warkas land/Sunny/10-20,Cotton
+890,Sangali/Rainy/Warkas land/Sunny/20-30,Cotton
+891,Sangali/Rainy/Warkas land/Sunny/30-40,Cotton
+892,Sangali/Rainy/Rice land/Overcast/10-20,Cotton
+893,Sangali/Rainy/Rice land/Overcast/20-30,Cotton
+894,Sangali/Rainy/Rice land/Overcast/30-40,Cotton
+895,Sangali/Rainy/Rice land/Cloudy/10-20,Cotton
+896,Sangali/Rainy/Rice land/Cloudy/20-30,Cotton
+897,Sangali/Rainy/Rice land/Cloudy/30-40,Cotton
+898,Sangali/Rainy/Rice land/Sunny/10-20,Cotton
+899,Sangali/Rainy/Rice land/Sunny/20-30,Cotton
+900,Sangali/Rainy/Rice land/Sunny/30-40,Cotton
+901,Sangali/Summer/Bagayat or irrigated land/Cloudy/10-20,Cotton
+902,Sangali/Summer/Bagayat or irrigated land/Cloudy/20-30,Cotton
+903,Sangali/Summer/Bagayat or irrigated land/Cloudy/30-40,Cotton
+904,Sangali/Summer/Bagayat or irrigated land/Sunny/10-20,Cotton
+905,Sangali/Summer/Bagayat or irrigated land/Sunny/20-30,Cotton
+906,Sangali/Summer/Bagayat or irrigated land/Sunny/30-40,Cotton
+907,Sangali/Summer/Bagayat or irrigated land/Overcast/10-20,Cotton
+908,Sangali/Summer/Bagayat or irrigated land/Overcast/20-30,Cotton
+909,Sangali/Summer/Bagayat or irrigated land/Overcast/30-40,Cotton
+910,Sangali/Summer/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+911,Sangali/Summer/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+912,Sangali/Summer/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+913,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+914,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+915,Sangali/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+916,Sangali/Summer/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+917,Sangali/Summer/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+918,Sangali/Summer/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+919,Sangali/Summer/Warkas land/Overcast/10-20,Cotton
+920,Sangali/Summer/Warkas land/Overcast/20-30,Cotton
+921,Sangali/Summer/Warkas land/Overcast/30-40,Cotton
+922,Sangali/Summer/Warkas land/Cloudy/10-20,Cotton
+923,Sangali/Summer/Warkas land/Cloudy/20-30,Cotton
+924,Sangali/Summer/Warkas land/Cloudy/30-40,Cotton
+925,Sangali/Summer/Warkas land/Sunny/10-20,Cotton
+926,Sangali/Summer/Warkas land/Sunny/20-30,Cotton
+927,Sangali/Summer/Warkas land/Sunny/30-40,Cotton
+928,Sangali/Summer/Rice land/Overcast/10-20,Cotton
+929,Sangali/Summer/Rice land/Overcast/20-30,Cotton
+930,Sangali/Summer/Rice land/Overcast/30-40,Cotton
+931,Sangali/Summer/Rice land/Cloudy/10-20,Cotton
+932,Sangali/Summer/Rice land/Cloudy/20-30,Cotton
+933,Sangali/Summer/Rice land/Cloudy/30-40,Cotton
+934,Sangali/Summer/Rice land/Sunny/10-20,Cotton
+935,Sangali/Summer/Rice land/Sunny/20-30,Cotton
+936,Sangali/Summer/Rice land/Sunny/30-40,Cotton
+937,Sangali/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+938,Sangali/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+939,Sangali/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+940,Sangali/Winter/Bagayat or irrigated land/Sunny/10-20,Cotton
+941,Sangali/Winter/Bagayat or irrigated land/Sunny/20-30,Cotton
+942,Sangali/Winter/Bagayat or irrigated land/Sunny/30-40,Cotton
+943,Sangali/Winter/Bagayat or irrigated land/Cloudy/10-20,Cotton
+944,Sangali/Winter/Bagayat or irrigated land/Cloudy/20-30,Cotton
+945,Sangali/Winter/Bagayat or irrigated land/Cloudy/30-40,Cotton
+946,Sangali/Winter/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+947,Sangali/Winter/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+948,Sangali/Winter/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+949,Sangali/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+950,Sangali/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+951,Sangali/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+952,Sangali/Winter/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+953,Sangali/Winter/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+954,Sangali/Winter/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+955,Sangali/Winter/Warkas land/Overcast/10-20,Cotton
+956,Sangali/Winter/Warkas land/Overcast/20-30,Cotton
+957,Sangali/Winter/Warkas land/Overcast/30-40,Cotton
+958,Sangali/Winter/Warkas land/Cloudy/10-20,Cotton
+959,Sangali/Winter/Warkas land/Cloudy/20-30,Cotton
+960,Sangali/Winter/Warkas land/Cloudy/30-40,Cotton
+961,Sangali/Winter/Warkas land/Sunny/10-20,Cotton
+962,Sangali/Winter/Warkas land/Sunny/20-30,Cotton
+963,Sangali/Winter/Warkas land/Sunny/30-40,Cotton
+964,Sangali/Winter/Rice land/Overcast/10-20,Cotton
+965,Sangali/Winter/Rice land/Overcast/20-30,Cotton
+966,Sangali/Winter/Rice land/Overcast/30-40,Cotton
+967,Sangali/Winter/Rice land/Cloudy/10-20,Cotton
+968,Sangali/Winter/Rice land/Cloudy/20-30,Cotton
+969,Sangali/Winter/Rice land/Cloudy/30-40,Cotton
+970,Sangali/Winter/Rice land/Sunny/10-20,Cotton
+971,Sangali/Winter/Rice land/Sunny/20-30,Cotton
+972,Sangali/Winter/Rice land/Sunny/30-40,Cotton
+973,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/10-20,Bajara
+974,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/20-30,Bajara
+975,Ahemadnagar/Rainy/Bagayat or irrigated land/Cloudy/30-40,Bajara
+976,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/10-20,Bajara
+977,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/20-30,Bajara
+978,Ahemadnagar/Rainy/Bagayat or irrigated land/Sunny/30-40,Bajara
+979,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/10-20,Bajara
+980,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/20-30,Bajara
+981,Ahemadnagar/Rainy/Bagayat or irrigated land/Overcast/30-40,Bajara
+982,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/10-20,Bajara
+983,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/20-30,Bajara
+984,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Overcast/30-40,Bajara
+985,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/10-20,Bajara
+986,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/20-30,Bajara
+987,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Cloudy/30-40,Bajara
+988,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/10-20,Bajara
+989,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/20-30,Bajara
+990,Ahemadnagar/Rainy/Jirayat land (Dry crop)/Sunny/30-40,Bajara
+991,Ahemadnagar/Rainy/Warkas land/Overcast/10-20,Bajara
+992,Ahemadnagar/Rainy/Warkas land/Overcast/20-30,Bajara
+993,Ahemadnagar/Rainy/Warkas land/Overcast/30-40,Bajara
+994,Ahemadnagar/Rainy/Warkas land/Cloudy/10-20,Bajara
+995,Ahemadnagar/Rainy/Warkas land/Cloudy/20-30,Bajara
+996,Ahemadnagar/Rainy/Warkas land/Cloudy/30-40,Bajara
+997,Ahemadnagar/Rainy/Warkas land/Sunny/10-20,Bajara
+998,Ahemadnagar/Rainy/Warkas land/Sunny/20-30,Bajara
+999,Ahemadnagar/Rainy/Warkas land/Sunny/30-40,Bajara
+1000,Ahemadnagar/Rainy/Rice land/Overcast/10-20,Bajara
+1001,Ahemadnagar/Rainy/Rice land/Overcast/20-30,Bajara
+1002,Ahemadnagar/Rainy/Rice land/Overcast/30-40,Bajara
+1003,Ahemadnagar/Rainy/Rice land/Cloudy/10-20,Bajara
+1004,Ahemadnagar/Rainy/Rice land/Cloudy/20-30,Bajara
+1005,Ahemadnagar/Rainy/Rice land/Cloudy/30-40,Bajara
+1006,Ahemadnagar/Rainy/Rice land/Sunny/10-20,Bajara
+1007,Ahemadnagar/Rainy/Rice land/Sunny/20-30,Bajara
+1008,Ahemadnagar/Rainy/Rice land/Sunny/30-40,Bajara
+1009,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/10-20,Cotton
+1010,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/20-30,Cotton
+1011,Ahemadnagar/Summer/Bagayat or irrigated land/Cloudy/30-40,Cotton
+1012,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/10-20,Cotton
+1013,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/20-30,Cotton
+1014,Ahemadnagar/Summer/Bagayat or irrigated land/Sunny/30-40,Cotton
+1015,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/10-20,Cotton
+1016,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/20-30,Cotton
+1017,Ahemadnagar/Summer/Bagayat or irrigated land/Overcast/30-40,Cotton
+1018,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/10-20,Cotton
+1019,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/20-30,Cotton
+1020,Ahemadnagar/Summer/Jirayat land (Dry crop)/Overcast/30-40,Cotton
+1021,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/10-20,Cotton
+1022,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/20-30,Cotton
+1023,Ahemadnagar/Summer/Jirayat land (Dry crop)/Cloudy/30-40,Cotton
+1024,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/10-20,Cotton
+1025,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/20-30,Cotton
+1026,Ahemadnagar/Summer/Jirayat land (Dry crop)/Sunny/30-40,Cotton
+1027,Ahemadnagar/Summer/Warkas land/Overcast/10-20,Cotton
+1028,Ahemadnagar/Summer/Warkas land/Overcast/20-30,Cotton
+1029,Ahemadnagar/Summer/Warkas land/Overcast/30-40,Cotton
+1030,Ahemadnagar/Summer/Warkas land/Cloudy/10-20,Cotton
+1031,Ahemadnagar/Summer/Warkas land/Cloudy/20-30,Cotton
+1032,Ahemadnagar/Summer/Warkas land/Cloudy/30-40,Cotton
+1033,Ahemadnagar/Summer/Warkas land/Sunny/10-20,Cotton
+1034,Ahemadnagar/Summer/Warkas land/Sunny/20-30,Cotton
+1035,Ahemadnagar/Summer/Warkas land/Sunny/30-40,Cotton
+1036,Ahemadnagar/Summer/Rice land/Overcast/10-20,Cotton
+1037,Ahemadnagar/Summer/Rice land/Overcast/20-30,Cotton
+1038,Ahemadnagar/Summer/Rice land/Overcast/30-40,Cotton
+1039,Ahemadnagar/Summer/Rice land/Cloudy/10-20,Cotton
+1040,Ahemadnagar/Summer/Rice land/Cloudy/20-30,Cotton
+1041,Ahemadnagar/Summer/Rice land/Cloudy/30-40,Cotton
+1042,Ahemadnagar/Summer/Rice land/Sunny/10-20,Cotton
+1043,Ahemadnagar/Summer/Rice land/Sunny/20-30,Cotton
+1044,Ahemadnagar/Summer/Rice land/Sunny/30-40,Cotton
+1045,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/10-20,GroundNut
+1046,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/20-30,GroundNut
+1047,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/30-40,GroundNut
+1048,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/10-20,GroundNut
+1049,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/20-30,GroundNut
+1050,Ahemadnagar/Winter/Bagayat or irrigated land/Sunny/30-40,GroundNut
+1051,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/10-20,GroundNut
+1052,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/20-30,GroundNut
+1053,Ahemadnagar/Winter/Bagayat or irrigated land/Cloudy/30-40,GroundNut
+1054,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/10-20,GroundNut
+1055,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/20-30,GroundNut
+1056,Ahemadnagar/Winter/Jirayat land (Dry crop)/Sunny/30-40,GroundNut
+1057,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/10-20,GroundNut
+1058,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/20-30,GroundNut
+1059,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/30-40,GroundNut
+1060,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/10-20,GroundNut
+1061,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/20-30,GroundNut
+1062,Ahemadnagar/Winter/Jirayat land (Dry crop)/Overcast/30-40,GroundNut
+1063,Ahemadnagar/Winter/Warkas land/Overcast/10-20,GroundNut
+1064,Ahemadnagar/Winter/Warkas land/Overcast/20-30,GroundNut
+1065,Ahemadnagar/Winter/Warkas land/Overcast/30-40,GroundNut
+1066,Ahemadnagar/Winter/Warkas land/Cloudy/10-20,GroundNut
+1067,Ahemadnagar/Winter/Warkas land/Cloudy/20-30,GroundNut
+1068,Ahemadnagar/Winter/Warkas land/Cloudy/30-40,GroundNut
+1069,Ahemadnagar/Winter/Warkas land/Sunny/10-20,GroundNut
+1070,Ahemadnagar/Winter/Warkas land/Sunny/20-30,GroundNut
+1071,Ahemadnagar/Winter/Warkas land/Sunny/30-40,GroundNut
+1072,Ahemadnagar/Winter/Rice land/Overcast/10-20,Rice
+1073,Ahemadnagar/Winter/Rice land/Overcast/20-30,Rice
+1074,Ahemadnagar/Winter/Rice land/Overcast/30-40,Rice
+1075,Ahemadnagar/Winter/Rice land/Cloudy/10-20,Rice
+1076,Ahemadnagar/Winter/Rice land/Cloudy/20-30,Rice
+1077,Ahemadnagar/Winter/Rice land/Cloudy/30-40,Rice
+1078,Ahemadnagar/Winter/Rice land/Sunny/10-20,Cotton
+1079,Ahemadnagar/Winter/Rice land/Sunny/20-30,Cotton
